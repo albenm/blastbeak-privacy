@@ -1,4 +1,4 @@
-Blast Beak: Cannon Puzzle - press kit
+Blast Beak: Ocean Rescue - press kit
 Kasanan Games, independent studio based in Turkiye
 
 Platform:   iPhone (iOS 15 or later)
@@ -11,7 +11,7 @@ Contact:    albenk@gmail.com
 Press page: https://albenm.github.io/blastbeak-privacy/press.html
 
 Short description
-Blast Beak: Cannon Puzzle is a physics puzzle for iPhone. Captain Boom, a pirate parrot, loads his cannon with
+Blast Beak: Ocean Rescue is a physics puzzle for iPhone. Captain Boom, a pirate parrot, loads his cannon with
 parrot eggs: you aim, fire and topple towers of crates, jam jars, stone and ice. Bomb Eggs explode, Ice Eggs shove
 whole stacks, Lightning and Parrot Strike finish the job. 1,000 levels across ten islands, no ads, offline play,
 seven languages, and one purchase for the whole game.
